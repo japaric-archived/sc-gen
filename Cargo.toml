@@ -1,0 +1,7 @@
+[package]
+authors = ["Jorge Aparicio <japaricious@gmail.com>"]
+name = "sc-gen"
+version = "0.1.0"
+
+[dependencies]
+tempdir = "0.3.5"
