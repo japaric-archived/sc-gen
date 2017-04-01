@@ -1,3 +1,14 @@
+# Status
+
+This tool has been **DEPRECATED** in favor of the python tool that lives in the
+[syscall.rs] repository.
+
+[syscall.rs]: https://github.com/japaric/syscall.rs/blob/c3d0176105ba03498e26a4c9863611415c956f7e/tools/nr_from_src.py
+
+-- @japaric, 2017-04-01
+
+---
+
 # `sc-gen`
 
 > System call number generator
